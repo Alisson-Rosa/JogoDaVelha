@@ -1,0 +1,15 @@
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\JogoVelha.exe
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\JogoVelha.deps.json
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\JogoVelha.runtimeconfig.json
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\JogoVelha.dll
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\JogoVelha.pdb
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\JogoVelha.csproj.AssemblyReference.cache
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\JogoVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\JogoVelha.AssemblyInfoInputs.cache
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\JogoVelha.AssemblyInfo.cs
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\JogoVelha.csproj.CoreCompileInputs.cache
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\JogoVelha.dll
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\JogoVelha.dll
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\JogoVelha.pdb
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\JogoVelha.genruntimeconfig.cache
+C:\Users\RARIINFO\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\JogoVelha.dll
